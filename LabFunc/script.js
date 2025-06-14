@@ -42,3 +42,8 @@ function avaliarAluno(nome, n1, n2, n3){
 function geraSenha(){
    console.log(String.fromCharCode(Math.floor(Math.random() * 126) + 33,Math.floor(Math.random() * 126) + 33,Math.floor(Math.random() * 126) + 33,Math.floor(Math.random() * 126) + 33,Math.floor(Math.random() * 126) + 33,Math.floor(Math.random() * 126) + 33,Math.floor(Math.random() * 126) + 33,Math.floor(Math.random() * 126) + 33))
 }
+HoraAtual();
+calcularAreaRetangulo(2,2);
+ehPar(2);
+avaliarAluno("Daniel",4,8,10s);
+geraSenha();
