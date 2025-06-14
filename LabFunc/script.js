@@ -34,10 +34,6 @@ function verificarSituacao(media) {
     
 }
     
-    let media = calcularMedia(6.5, 8.0, 7.0);
-    
-    console.log(`Média: ${media.toFixed(2)} - Situação: ${verificarSituacao(media)}`);
-
 
 function avaliarAluno(nome, n1, n2, n3){
     console.log('Nome: '+nome+' Media: '+calcularMedia(n1,n2,n3)+' Situação: '+verificarSituacao(calcularMedia(n1,n2,n3)))
