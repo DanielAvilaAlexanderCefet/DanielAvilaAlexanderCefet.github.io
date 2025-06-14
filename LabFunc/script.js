@@ -45,5 +45,5 @@ function geraSenha(){
 HoraAtual();
 calcularAreaRetangulo(2,2);
 ehPar(2);
-avaliarAluno("Daniel",4,8,10s);
+avaliarAluno("Daniel",4,8,10);
 geraSenha();
